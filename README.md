@@ -33,6 +33,9 @@ At the **Hardware** level, it is important to enable on device secure encryption
 
 ### **Our Product is easily scalable and can be implemented on a very large agricultural field or an industrial factory for automation without making any changes**
 
+###**Our product is fault-tolerant with priority levels given to the device which was initially used for setup and is maintained with our mesh network.**
+
+
 ### Structure of Appliances: 
 
 Device->Accessories->Services->Characteristics
